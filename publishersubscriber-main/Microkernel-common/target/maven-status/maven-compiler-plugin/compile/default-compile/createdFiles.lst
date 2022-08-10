@@ -1,0 +1,12 @@
+co\unicauca\microkernel\common\entities\FabricaProduct.class
+co\unicauca\microkernel\common\entities\Medicion.class
+co\unicauca\microkernel\common\entities\Disparador.class
+co\unicauca\microkernel\common\interfaces\ItemFabrica.class
+frameworkMedicion\external\Sensor.class
+co\unicauca\microkernel\common\entities\ProductMedible.class
+frameworkMedicion\external\Actuador.class
+co\unicauca\microkernel\common\interfaces\IPublisherPlugin.class
+frameworkMedicion\external\SensorActivo.class
+co\unicauca\microkernel\common\entities\Product.class
+co\unicauca\microkernel\common\interfaces\IMedicionPlugin.class
+co\unicauca\microkernel\common\entities\ProductActuador.class

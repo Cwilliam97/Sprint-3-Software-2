@@ -1,0 +1,6 @@
+co\unicauca\measured\AppConfiguration.class
+co\unicauca\measured\domain\entity\Measured.class
+co\unicauca\measured\presentation\rest\MeasuredController.class
+co\unicauca\measured\access\IMeasuredRepository.class
+co\unicauca\measured\access\IMeasuredRepositoryImplArrays.class
+co\unicauca\measured\domain\service\MeasuredService.class
